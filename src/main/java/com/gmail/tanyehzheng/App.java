@@ -9,10 +9,6 @@ import com.gmail.tanyehzheng.model.MyFile;
 import com.gmail.tanyehzheng.model.WorkingDay;
 import com.gmail.tanyehzheng.model.WorkingMonth;
 
-/**
- * Hello world!
- *
- */
 public class App {
     public static void main(String[] args) {
         // Select file
